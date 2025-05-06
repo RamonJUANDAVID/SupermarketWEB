@@ -8,4 +8,4 @@
 
         public ICollection<Product> Products { get; set; }  // Propiedad de navegación
     }
-}
+}// Comentario de prueba para nuevo commit
