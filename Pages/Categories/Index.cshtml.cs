@@ -23,4 +23,4 @@ namespace SupermarketWEB.Pages.Categories
         }
 
     }
-}
+}//prueba
