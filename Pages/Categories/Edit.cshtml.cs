@@ -58,4 +58,4 @@ namespace SupermarketWEB.Pages.Categories
             return (_context.Categories?.Any(e => e.Id == id)).GetValueOrDefault();
         }
     }
-}
+}//Guardar
